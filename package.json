@@ -1,0 +1,23 @@
+{
+  "name": "hyper-pink",
+  "version": "1.0.0",
+  "description": "Pink for Hyper",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": "bkdev98/hyper-pink",
+  "author": {
+    "name": "Quoc Khanh",
+    "email": "bkdev98@gmail.com"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "hyper",
+    "hyper-theme",
+    "hyperterm",
+    "hyperterm-theme",
+    "pink",
+    "hyper-pink"
+  ]
+}
